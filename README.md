@@ -181,8 +181,3 @@ Develop geospatial maps for regional analysis
 
 Deploy dashboards on web platforms
 
-👩‍💻 Author
-
-Nallari Lakshmi
-B.Sc Statistics Student
-Tableau Data Visualization Project
