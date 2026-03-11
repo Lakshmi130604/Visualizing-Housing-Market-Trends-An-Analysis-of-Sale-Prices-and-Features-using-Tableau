@@ -1,1 +1,1 @@
-this folder comtains mt project codind files
+this folder comtains all the project codind files
