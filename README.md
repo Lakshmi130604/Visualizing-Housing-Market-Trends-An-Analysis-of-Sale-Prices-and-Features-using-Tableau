@@ -181,3 +181,8 @@ Develop geospatial maps for regional analysis
 
 Deploy dashboards on web platforms
 
+## 🔗 Live Tableau Dashboard
+https://public.tableau.com/views/Book1_17696952321770/Dashboard1
+
+## 📊 Tableau Story
+https://public.tableau.com/views/Book1_17696952321770/Story1
